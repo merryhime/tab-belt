@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Belt",
+  "version": "1.0",
+
+  "description": "Mill-style belt. For your tabs.",
+
+  "permissions": ["tabs"],
+
+  "background": {
+    "scripts": ["tab-belt.js"]
+  }
+}
